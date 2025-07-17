@@ -38,5 +38,5 @@
 2.  Создайте и активируйте виртуальное окружение: `python3 -m venv venv` и `source venv/bin/activate`
 3.  Установите зависимости: `pip install aiogram aiosqlite`
 4.  Создайте файл `config.py` в корне проекта.
-5.  Добавьте в `config.py` токен: `API_TOKEN = '7894491327:AAE2XKkGkizKdo8h7YtH_wakmMpwb7DTFJ0'`
+5.  Добавьте в `config.py` ваш токен: `API_TOKEN = ''`
 6.  Запустите бота: `python3 bot.py`
